@@ -9,7 +9,7 @@ La página debe invocar el servicio web de la ciudad de manera asíncrona y modi
 
 El API de la página debe ser el siguiente:
 
-###Funcionamiento: 
+### Funcionamiento: 
 Pagina pincial
 
 ![img/img1.png](img/img1.png)
