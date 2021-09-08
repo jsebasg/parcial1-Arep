@@ -21,6 +21,17 @@ uso con un pais
 
 # Heroku
 
+https://parcialuno.herokuapp.com/clima
+
+Pagina pincial
+
+![img/img3.png](img/img3.png)
+
+uso con un pais 
+
+![img/img4.png](img/img4.png)
+
+
 ## Construido con
 
 * [Java] (https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
